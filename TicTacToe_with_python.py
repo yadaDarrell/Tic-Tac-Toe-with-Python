@@ -127,7 +127,7 @@ while True:
 					print('It is a tie!')
 					break
 				else:
-					turn = "Player 2's turn"
+					turn = "Player 1 goes first"
 	if not playAgain():
 		break
 
